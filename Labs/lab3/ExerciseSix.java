@@ -1,11 +1,11 @@
 /** 
-* Excercise Five
+* Excercise Six
 * Lab Three
 **/
 
 import java.util.Scanner;
 
-public class ExerciseFive {
+public class ExerciseSix { 
 
     public static void main( String[] args ) {
 
@@ -23,15 +23,17 @@ public class ExerciseFive {
         grade = input.nextInt();
         
         while ( grade != -1 ) { 
-            totalGrades = totalGrades + grade; // add grade to total
-            gradeCounter = gradeCounter + 1; // increment
-            
-            System.out.print( "Enter grade or -1 to quit: " ); //prompt
-            grade = input.nextInt(); // input next grade
 
-            if {
+            if ( grade < 0 || grade > 100 ) {
+                System.out.println( "The number you entered is invalid");
             
-            }
+            } else 
+
+                totalGrades = totalGrades + grade; // add grade to total
+                gradeCounter = gradeCounter + 1; // increment
+            
+                System.out.print( "Enter grade or -1 to quit: " ); //prompt
+                grade = input.nextInt(); // input next grade
 
         } // end while
         
@@ -47,4 +49,4 @@ public class ExerciseFive {
             System.out.println( "No grades were entered" );
             
     } // end main
-} // end class ExerciseFive
+} // end class ExerciseSix
