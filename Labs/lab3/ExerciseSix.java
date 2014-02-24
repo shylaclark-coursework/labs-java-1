@@ -25,7 +25,7 @@ public class ExerciseSix {
         while ( grade != -1 ) { 
 
             if ( grade < 0 || grade > 100 ) {
-                System.out.println( "The number you entered is invalid");
+                System.out.println( "The number you entered is invalid. " );
             
             } else 
 
