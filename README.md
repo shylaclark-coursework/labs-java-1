@@ -1,8 +1,7 @@
 # Java I Labs
-## CSCI 1851
-## Spring 2014
+## CSCI 1851 - Spring 2014
 
-#### Lab 3
+### Lab 3
 * ExerciseOne
 * ExerciseTwo
 * ExerciseThree
@@ -11,38 +10,38 @@
 * ExerciseSix
 * ExerciseSeven
 
-#### Lab 4
+### Lab 4
 * ExerciseOne
 * ExerciseTwo
 * ExerciseThree
 * ExerciseFour
 
-#### Lab 5
+### Lab 5
 * ExerciseOne
 
-#### Lab 6
+### Lab 6
 * ExerciseOne
 * ExerciseTwo
 * ExerciseThree
 
-#### Lab 7
+### Lab 7
 * ExerciseOne
 
-#### Lab 8
+### Lab 8
 * ExerciseOne
 * Fraction
 
-#### Lab 9
+### Lab 9
 * ExerciseOne
 * DynamicArray
 
-#### Lab 10
+### Lab 10
 Practice Java inheritance.
 * Event
 * SchoolEvent
 * EventTest
 
-#### Lab 11
+### Lab 11
 More Java inheritance practice.
 * Event
 * GeneralEvent
@@ -50,7 +49,7 @@ More Java inheritance practice.
 * SocialEvent
 * EventTest
 
-#### Lab 13
+### Lab 13
 Practice reading from text file.
 * ExerciseOne
 * ExerciseTwo
